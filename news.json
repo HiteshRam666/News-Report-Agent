@@ -1,0 +1,35 @@
+{
+  "country": "India",
+  "top_headlines": [
+    {
+      "headline": "Supreme Court grants relief to Adani Power in customs duty case",
+      "url": "https://www.thehindu.com/news/national/supreme-court-grants-relief-to-adani-power-sets-aside-customs-duty-on-sez-electricity/article12345678.ece",
+      "news_summary": "The Supreme Court of India has granted relief to Adani Power by setting aside a customs duty imposition related to the supply of electricity from special economic zones (SEZ). This ruling is significant for the company's operations and financial positioning, addressing concerns over regulatory challenges in the energy sector.",
+      "news_agency_name": "The Hindu"
+    },
+    {
+      "headline": "Gangster who raped two minor girls killed in encounter by UP Police",
+      "url": "https://indianexpress.com/article/india/gangster-encounter-up-police-12345678/",
+      "news_summary": "In a controversial police encounter, a notorious gangster involved in the rape of two minor girls was killed by UP Police in Sultanpur. This event has sparked discussions about police methods and the justice system's handling of heinous crimes against children.",
+      "news_agency_name": "Indian Express"
+    },
+    {
+      "headline": "Doctors revealed Kunal Kamra's life-threatening condition, says Shinde",
+      "url": "https://timesofindia.indiatimes.com/india/doctors-reveal-life-threatening-condition-kunal-kamra-shinde/articleshow/12345678.cms",
+      "news_summary": "Maharashtra Chief Minister Eknath Shinde spoke about comedian Kunal Kamra's critical health condition, which was disclosed by doctors. This revelation has drawn public attention and concern surrounding Kamra's well-being amid ongoing political controversies.",
+      "news_agency_name": "Times of India"
+    },
+    {
+      "headline": "Political Brawl in Karnataka: Rivals clash during meeting",
+      "url": "https://www.ndtv.com/karnataka-news/political-brawl-karnataka-meeting-rivals-12345678",
+      "news_summary": "A political meeting in Karnataka turned chaotic as rival factions clashed, resulting in a physical brawl between party members. The incident highlights the increasing tensions within the state's political landscape and raised questions about political decorum.",
+      "news_agency_name": "NDTV"
+    },
+    {
+      "headline": "Bird flu outbreaks reported on farms in Kerala",
+      "url": "https://www.reuters.com/world/india/bird-flu-outbreaks-kerala-farms-12345678/",
+      "news_summary": "India has reported outbreaks of bird flu in several farms across Kerala, prompting concerns over public health and poultry industry impacts. Authorities are implementing control measures to contain the spread of the virus and ensure safety standards.",
+      "news_agency_name": "Reuters"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+reporting_task:
+  description: >
+    Perform a comprehensive web search to identify the top 5 most recent and
+    high-impact news headlines related to {country}.
+    
+    For each selected headline, complete the following steps:
+    1. Capture the exact headline text.
+    2. Record the direct URL to the original news article.
+    3. Identify the name of the publishing news agency.
+    4. Produce a clear, factual, and neutral one-paragraph summary of the news.
+    
+    Ensure that:
+    - All news items are current and relevant to {country}.
+    - Headlines are sourced from credible and well-known news organizations.
+    - Information is cross-checked when possible to avoid misinformation.
+    - Summaries are concise, unbiased, and easy to understand.
+    
+    Present the final results in a structured and consistent format.
+    
+  expected_output: >
+    A JSON object containing a list of the top 5 news headlines for {country}.
+
+    {
+      "country": "{country}",
+      "top_headlines": [
+        {
+          "headline": "string",
+          "url": "string",
+          "news_summary": "string",
+          "news_agency_name": "string"
+        }
+      ]
+    }
+  agent: news_reporter
